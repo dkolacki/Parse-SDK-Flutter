@@ -1,6 +1,6 @@
 name: parse_server_sdk
 description: The Dart SDK to connect to Parse Server. Build your apps faster with Parse Platform, the complete application stack.
-version: 8.0.0
+version: 8.1.0
 homepage: https://parseplatform.org
 repository: https://github.com/parse-community/Parse-SDK-Flutter
 issue_tracker: https://github.com/parse-community/Parse-SDK-Flutter/issues
@@ -32,7 +32,7 @@ dependencies:
 
   # Utils
   uuid: ^4.5.1
-  meta: 1.15.0 
+  meta: ^1.15.0 
   path: ^1.9.1
   mime: ^2.0.0
   timezone: ^0.10.0
